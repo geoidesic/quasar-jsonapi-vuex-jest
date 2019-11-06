@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573033583132" clover="3.2.0">
+  <project timestamp="1573033583133" name="All files">
+    <metrics statements="14" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="10" coveredmethods="0" elements="26" coveredelements="0" complexity="0" loc="14" ncloc="14" packages="4" files="9" classes="9"/>
+    <package name="layouts">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="MyLayout.vue" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/layouts/MyLayout.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="123" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="router">
+      <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="index.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/router/index.js">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+      <file name="routes.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/router/routes.js">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/store/index.js">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.module-example">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="actions.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/store/module-example/actions.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="getters.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/store/module-example/getters.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/store/module-example/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="mutations.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/store/module-example/mutations.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="state.js" path="/Users/noeldacosta/repo/jsonapi-vuex-jest/src/store/module-example/state.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
